@@ -97,6 +97,11 @@ export default class MyForm extends Component {
 
 ```
 
+## Inputs
+
+ - **text** (default)
+ ![Alt text](./textInput.jpg?raw=true "Title")
+
 ## Props
 
  - **title** {string} : the title of the field 
