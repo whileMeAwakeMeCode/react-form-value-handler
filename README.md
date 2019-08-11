@@ -101,8 +101,10 @@ export default class MyForm extends Component {
 
  - **text** (default)
  ![Alt text](./examples/textInput.jpg?raw=true "Title")
+ 
  - **select** and **numeric** 
  ![Alt text](./examples/selectAndNumericInputs.jpg?raw=true "Title")
+ 
  - **checkbox** 
  ![Alt text](./examples/checkbox.jpg?raw=true "Title")
 
