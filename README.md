@@ -97,7 +97,7 @@ export default class MyForm extends Component {
 
 ```
 
-## Inputs
+## Input Types
 
  - **text** (default)
  ![Alt text](./examples/textInput.jpg?raw=true "Title")
